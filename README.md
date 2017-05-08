@@ -1,6 +1,6 @@
 # vue-github-explorer
 
-> A Vue.js 2 project
+> We will create a Github file explorer that will allow us to explore files in public Github repos.
 
 ## Build Setup
 
